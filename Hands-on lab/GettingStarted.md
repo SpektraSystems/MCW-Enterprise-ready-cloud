@@ -51,10 +51,10 @@
    
 11. Now you will see Azure Portal Dashboard, click on **Resource groups** to see the resource groups.
 
-   ![](images/resource-groups.png "Resource groups")
+    ![](images/resource-groups.png "Resource groups")
    
 12. Confirm you have all resource group are present as shown below.
 
-   ![](images/resource-groups-02.png "Resource groups")
+    ![](images/resource-groups-02.png "Resource groups")
    
 13. Now, click on the **Next** from lower right corner to move on **Getting Started** page.
