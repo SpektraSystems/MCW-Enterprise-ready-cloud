@@ -40,7 +40,7 @@
 1. Now enter the following password and click on **Sign in**.
    * Password: <inject key="AzureAdUserPassword"></inject>
    
-     ![](images/azure-login-enter-password.png "Enter Password")
+     ![](images/azure-login-enter-password1.png "Enter Password")
      
 1. If you see the pop-up **Stay Signed in?**, click No
 
