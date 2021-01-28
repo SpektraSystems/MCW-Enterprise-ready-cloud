@@ -4,18 +4,18 @@
 
 2. To get the lab environment details, you can select **Lab Environment** tab. Additionally, the credentials will also be emailed to your email address provided at registration.
 
-   ![](images/lab-details.png "Lab Environment")
+   ![](images/lab-environment-v2.png "Lab Environment")
  
     > You will see Deployment ID value on **Lab Environment** tab, use it whereever you see SUFFIX or DeploymentID in lab steps.
  
-3. You can also open the Lab Guide on Seprate full window by selcting the **Arrow** icon in upper right corner.
+3. You can also open the Lab Guide on Seprate full window by selcting the **Split window** icon in upper right corner.
 
-   ![](images/lab-guide-open.png "Lab Guide")
+   ![](images/labguide-v2.png "Lab Guide")
  
 ## Login to Azure Portal
 1. In the JumpVM, click on Azure portal shortcut of Microsoft Edge browser which is created on desktop.
 
-   ![azure portal.](images/azureportal.png)
+   ![azure portal.](images/labguide-open-v2.png)
    
 2. When you click on Azure portal, edge browser welcome screen will come up, select **Get started**.
 
